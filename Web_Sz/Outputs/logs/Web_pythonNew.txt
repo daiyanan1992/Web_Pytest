@@ -1,0 +1,399 @@
+2020-10-22 16:59:54,612 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 16:59:54,668 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 16:59:54,669 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 16:59:56,955 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 16:59:56,996 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 16:59:56,996 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 16:59:57,202 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 16:59:57,204 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 16:59:57,641 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 16:59:58,201 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 16:59:58,202 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 16:59:58,319 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 16:59:59,365 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 16:59:59,366 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 16:59:59,460 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 16:59:59,461 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 16:59:59,553 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 16:59:59,554 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 16:59:59,671 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:00:00,221 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:00:00,222 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:00:00,315 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:00:00,348 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:00:00,349 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:00:01,524 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:00:01,605 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:00:01,607 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:00:01,780 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:00:01,782 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:00:02,295 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:00:02,921 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:00:02,922 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:00:03,169 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:00:04,236 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:00:04,236 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:00:04,310 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:00:04,311 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:00:04,392 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:00:04,393 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:00:04,481 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:00:05,034 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:00:05,035 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:01:08,791 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:01:08,855 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:01:08,858 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:01:12,196 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:11.496247.png
+2020-10-22 17:01:12,197 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:01:12,259 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:01:12,260 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:01:12,896 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:12.360296.png
+2020-10-22 17:01:12,896 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:01:12,897 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:01:13,451 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:12.958331.png
+2020-10-22 17:01:13,452 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:01:13,490 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:01:13,491 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:01:14,041 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:13.577366.png
+2020-10-22 17:01:14,060 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:01:15,120 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:01:15,121 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:01:15,205 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:01:15,206 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:01:15,286 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:01:15,287 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:01:15,824 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:15.370469.png
+2020-10-22 17:01:15,825 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:01:15,857 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:01:15,858 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:01:15,885 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:01:15,911 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:01:15,912 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:01:17,636 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:16.940558.png
+2020-10-22 17:01:17,638 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:01:17,678 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:01:17,679 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:01:18,284 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:17.751605.png
+2020-10-22 17:01:18,285 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:01:18,286 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:01:18,867 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:18.346639.png
+2020-10-22 17:01:18,868 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:01:18,904 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:01:18,905 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:01:19,523 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:18.994676.png
+2020-10-22 17:01:19,544 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:01:20,603 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:01:20,604 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:01:20,686 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:01:20,687 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:01:20,771 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:01:20,771 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:01:21,307 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:01:20.847782.png
+2020-10-22 17:01:21,308 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:01:21,348 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:01:21,349 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:08:06,211 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:08:06,273 - python11 - INFO - 等待时长为0
+2020-10-22 17:08:06,276 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:08:06,278 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:08:09,808 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:08.999127.png
+2020-10-22 17:08:09,810 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:08:09,867 - python11 - INFO - 等待时长为0
+2020-10-22 17:08:09,867 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:08:09,868 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:08:10,615 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:09.999184.png
+2020-10-22 17:08:10,617 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:08:10,618 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:08:11,332 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:10.779229.png
+2020-10-22 17:08:11,333 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:08:11,375 - python11 - INFO - 等待时长为0
+2020-10-22 17:08:11,376 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:08:11,377 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:08:12,115 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:11.525271.png
+2020-10-22 17:08:12,155 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:08:13,225 - python11 - INFO - 等待时长为1
+2020-10-22 17:08:13,226 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:08:13,227 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:08:13,317 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:08:13,318 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:08:13,409 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:08:13,409 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:08:14,071 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:13.527386.png
+2020-10-22 17:08:14,072 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:08:14,108 - python11 - INFO - 等待时长为0
+2020-10-22 17:08:14,109 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:08:14,111 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:08:14,140 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:08:14,171 - python11 - INFO - 等待时长为0
+2020-10-22 17:08:14,172 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:08:14,173 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:08:16,098 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:15.353490.png
+2020-10-22 17:08:16,099 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:08:16,179 - python11 - INFO - 等待时长为0
+2020-10-22 17:08:16,180 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:08:16,181 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:08:16,933 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:16.351547.png
+2020-10-22 17:08:16,934 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:08:16,934 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:08:17,597 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:17.009585.png
+2020-10-22 17:08:17,598 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:08:17,634 - python11 - INFO - 等待时长为0
+2020-10-22 17:08:17,635 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:08:17,636 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:08:18,330 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:17.727626.png
+2020-10-22 17:08:18,366 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:08:19,466 - python11 - INFO - 等待时长为1
+2020-10-22 17:08:19,467 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:08:19,468 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:08:19,554 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:08:19,555 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:08:19,647 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:08:19,648 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:08:20,250 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:08:19.743741.png
+2020-10-22 17:08:20,251 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:08:20,294 - python11 - INFO - 等待时长为0
+2020-10-22 17:08:20,295 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:08:20,296 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:10:24,395 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:10:24,497 - python11 - INFO - 等待时长为0
+2020-10-22 17:10:24,502 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:10:24,506 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:11:17,739 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:10:28.282093.png
+2020-10-22 17:11:21,264 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:11:31,650 - python11 - INFO - 等待时长为2
+2020-10-22 17:11:35,256 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:11:42,200 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:12:50,452 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:12:50,511 - python11 - INFO - 等待时长为0
+2020-10-22 17:12:51,082 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:12:50.512228.png
+2020-10-22 17:12:51,083 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:12:51,084 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:12:54,895 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:12:54.167438.png
+2020-10-22 17:12:54,896 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:12:54,932 - python11 - INFO - 等待时长为0
+2020-10-22 17:12:55,431 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:12:54.933481.png
+2020-10-22 17:12:55,432 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:12:55,433 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:12:56,045 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:12:55.515515.png
+2020-10-22 17:12:56,046 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:12:56,047 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:12:56,708 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:12:56.117549.png
+2020-10-22 17:12:56,710 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:12:56,744 - python11 - INFO - 等待时长为0
+2020-10-22 17:12:57,206 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:12:56.745585.png
+2020-10-22 17:12:57,207 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:12:57,208 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:12:57,875 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:12:57.336619.png
+2020-10-22 17:12:57,918 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:12:59,005 - python11 - INFO - 等待时长为1
+2020-10-22 17:12:59,507 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:12:59.006714.png
+2020-10-22 17:12:59,508 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:12:59,510 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:13:00,140 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_2020-10-22 17:12:59.626750.png
+2020-10-22 17:13:00,141 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:13:00,142 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:13:00,809 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_2020-10-22 17:13:00.246785.png
+2020-10-22 17:13:00,810 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:13:00,811 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:13:01,437 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:00.915824.png
+2020-10-22 17:13:01,438 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:13:01,483 - python11 - INFO - 等待时长为0
+2020-10-22 17:13:01,988 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:01.483856.png
+2020-10-22 17:13:01,990 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:13:01,991 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:13:02,023 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:13:02,060 - python11 - INFO - 等待时长为0
+2020-10-22 17:13:02,555 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:02.060889.png
+2020-10-22 17:13:02,557 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:13:02,558 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:13:04,700 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:03.959998.png
+2020-10-22 17:13:04,701 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:13:05,049 - python11 - INFO - 等待时长为0
+2020-10-22 17:13:05,554 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:05.049060.png
+2020-10-22 17:13:05,554 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:13:05,555 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:13:06,193 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:05.641094.png
+2020-10-22 17:13:06,194 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:13:06,195 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:13:06,852 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:06.268130.png
+2020-10-22 17:13:06,853 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:13:06,890 - python11 - INFO - 等待时长为0
+2020-10-22 17:13:07,417 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:06.890165.png
+2020-10-22 17:13:07,417 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:13:07,418 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:13:08,185 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:07.525202.png
+2020-10-22 17:13:08,218 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:13:09,281 - python11 - INFO - 等待时长为1
+2020-10-22 17:13:09,731 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:09.282302.png
+2020-10-22 17:13:09,732 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:13:09,733 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:13:10,370 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_2020-10-22 17:13:09.878336.png
+2020-10-22 17:13:10,371 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:13:10,371 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:13:10,917 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_2020-10-22 17:13:10.456369.png
+2020-10-22 17:13:10,917 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:13:10,918 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:13:11,484 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:10.997400.png
+2020-10-22 17:13:11,485 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:13:11,525 - python11 - INFO - 等待时长为0
+2020-10-22 17:13:11,977 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_2020-10-22 17:13:11.525430.png
+2020-10-22 17:13:11,978 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:13:11,978 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:36:52,631 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:36:52,714 - python11 - INFO - 等待时长为0
+2020-10-22 17:36:53,345 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:36:53,346 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:36:53,347 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:36:56,395 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:36:56,396 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:36:56,449 - python11 - INFO - 等待时长为0
+2020-10-22 17:36:56,929 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:36:56,930 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:36:56,931 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:36:57,591 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:36:57,592 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:36:57,593 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:36:58,239 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:36:58,239 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:36:58,275 - python11 - INFO - 等待时长为0
+2020-10-22 17:36:58,741 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:36:58,742 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:36:58,743 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:36:59,376 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:36:59,401 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:37:00,494 - python11 - INFO - 等待时长为1
+2020-10-22 17:37:00,979 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:00,980 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:37:00,982 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:37:01,603 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_ceshi.png
+2020-10-22 17:37:01,604 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:37:01,605 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:37:02,203 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_ceshi.png
+2020-10-22 17:37:02,204 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:37:02,204 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:37:02,848 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:02,849 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:37:02,891 - python11 - INFO - 等待时长为0
+2020-10-22 17:37:03,384 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:03,385 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:37:03,386 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:37:03,424 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:37:03,460 - python11 - INFO - 等待时长为0
+2020-10-22 17:37:03,947 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:03,948 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-22 17:37:03,950 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-22 17:37:06,101 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:06,103 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:37:06,423 - python11 - INFO - 等待时长为0
+2020-10-22 17:37:06,915 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:06,916 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-22 17:37:06,917 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-22 17:37:07,529 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:07,530 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-22 17:37:07,531 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-22 17:37:08,185 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:08,186 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:37:08,223 - python11 - INFO - 等待时长为0
+2020-10-22 17:37:08,674 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:08,675 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-22 17:37:08,676 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-22 17:37:09,334 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:09,357 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:37:10,411 - python11 - INFO - 等待时长为1
+2020-10-22 17:37:10,864 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:10,865 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-22 17:37:10,866 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-22 17:37:11,425 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_ceshi.png
+2020-10-22 17:37:11,425 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-22 17:37:11,426 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-22 17:37:11,968 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_ceshi.png
+2020-10-22 17:37:11,969 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-22 17:37:11,970 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-22 17:37:12,574 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:12,575 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-22 17:37:12,629 - python11 - INFO - 等待时长为0
+2020-10-22 17:37:13,083 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-22 17:37:13,084 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-22 17:37:13,084 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-23 09:33:24,201 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-23 09:33:24,320 - python11 - INFO - 等待时长为0
+2020-10-23 09:33:24,938 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:24,939 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-23 09:33:24,940 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-23 09:33:32,630 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:32,630 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-23 09:33:32,664 - python11 - INFO - 等待时长为0
+2020-10-23 09:33:33,116 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:33,117 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-23 09:33:33,117 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-23 09:33:33,696 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:33,697 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-23 09:33:33,697 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-23 09:33:34,280 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:34,281 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-23 09:33:34,314 - python11 - INFO - 等待时长为0
+2020-10-23 09:33:34,804 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:34,805 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-23 09:33:34,805 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-23 09:33:35,428 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:35,460 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-23 09:33:36,536 - python11 - INFO - 等待时长为1
+2020-10-23 09:33:36,991 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:36,991 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-23 09:33:36,992 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-23 09:33:37,550 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_ceshi.png
+2020-10-23 09:33:37,551 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-23 09:33:37,551 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-23 09:33:38,042 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_ceshi.png
+2020-10-23 09:33:38,043 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-23 09:33:38,043 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-23 09:33:38,547 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:38,547 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-23 09:33:38,582 - python11 - INFO - 等待时长为0
+2020-10-23 09:33:39,028 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:39,029 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-23 09:33:39,030 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-23 09:33:39,156 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-23 09:33:39,213 - python11 - INFO - 等待时长为0
+2020-10-23 09:33:39,659 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:39,659 - python11 - INFO - 点击元素('xpath', '//a[contains(text(),"个人中心")]')开始
+2020-10-23 09:33:39,660 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-23 09:33:41,321 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:41,322 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-23 09:33:41,397 - python11 - INFO - 等待时长为0
+2020-10-23 09:33:41,920 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:41,920 - python11 - INFO - 点击元素('xpath', '//span[text()="数据中心"]')开始
+2020-10-23 09:33:41,921 - python11 - INFO - 等待元素('xpath', '//span[text()="数据中心"]')可见
+2020-10-23 09:33:42,501 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:42,501 - python11 - INFO - 点击元素('xpath', '//div[text()="我的API"]')开始
+2020-10-23 09:33:42,502 - python11 - INFO - 等待元素('xpath', '//div[text()="我的API"]')可见
+2020-10-23 09:33:43,122 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:43,122 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-23 09:33:43,161 - python11 - INFO - 等待时长为0
+2020-10-23 09:33:43,605 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:43,606 - python11 - INFO - 点击元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')开始
+2020-10-23 09:33:43,606 - python11 - INFO - 等待元素('xpath', '//a[text()="生肖配对"]/ancestor::div/div/p/a')可见
+2020-10-23 09:33:44,198 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:44,226 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-23 09:33:45,282 - python11 - INFO - 等待时长为1
+2020-10-23 09:33:45,706 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:45,707 - python11 - INFO - 插入元素('xpath', '//input[@data="men"]')开始
+2020-10-23 09:33:45,707 - python11 - INFO - 等待元素('xpath', '//input[@data="men"]')可见
+2020-10-23 09:33:46,269 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_ceshi.png
+2020-10-23 09:33:46,270 - python11 - INFO - 插入元素('xpath', '//input[@data="women"]')开始
+2020-10-23 09:33:46,270 - python11 - INFO - 等待元素('xpath', '//input[@data="women"]')可见
+2020-10-23 09:33:46,822 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\_ceshi.png
+2020-10-23 09:33:46,823 - python11 - INFO - 点击元素('xpath', '//button[@id="boxBtn"]')开始
+2020-10-23 09:33:46,823 - python11 - INFO - 等待元素('xpath', '//button[@id="boxBtn"]')可见
+2020-10-23 09:33:47,321 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:47,322 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-23 09:33:47,354 - python11 - INFO - 等待时长为0
+2020-10-23 09:33:47,796 - python11 - INFO - 截取成功，文件路径为：D:\Web_pythonNew\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 09:33:47,796 - python11 - INFO - 获取元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')开始
+2020-10-23 09:33:47,797 - python11 - INFO - 等待元素('xpath', '//span[text()="data"]/following::span/span[@class="hljs-string"]')可见
+2020-10-23 10:52:56,369 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-23 10:53:06,820 - python11 - ERROR - 等待元素课件失败！！！
+2020-10-23 10:53:07,502 - python11 - INFO - 截取成功，文件路径为：D:\Web_Pytest\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
+2020-10-23 10:53:07,650 - python11 - INFO - 等待元素('xpath', '//a[contains(text(),"个人中心")]')可见
+2020-10-23 10:53:18,121 - python11 - ERROR - 等待元素课件失败！！！
+2020-10-23 10:53:18,655 - python11 - INFO - 截取成功，文件路径为：D:\Web_Pytest\Web_Sz\Outputs\screenshots\点击api功能-测试生肖_ceshi.png
