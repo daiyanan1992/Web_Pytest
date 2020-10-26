@@ -29,11 +29,11 @@ class TestLogin:
         assert IndexPage(access_web[0]).isExist_logout_ele()#新表达式
 
   # 错误登录
-  #   @data(*LD.phone_data)
-  #   def test_login_success(self,data):
-  #       #前置 访问登录页面
-  #       #步骤 输入用户名密码点击登录
-  #       self.lg.login(data['user'],data['passwd'])
-  #       #断言 首页当中是否找到什么元素
-  #       # self.assertTrue(self.lg.errorUserNameLoginEle())
-  #       self.assertEqual(self.lg.errorUserNameLoginEle(),data['check'])
+    @pytest.mark.parametrize('data',LD.phone_data)
+    def test_login_success(self,data,access_web):
+        #前置 访问登录页面
+        #步骤 输入用户名密码点击登录
+        access_web[1].login(data['user'],data['passwd'])
+        #断言 首页当中是否找到什么元素
+        # self.assertTrue(self.lg.errorUserNameLoginEle())
+        assert access_web[1].errorUserNameLoginEle()== data['check']
